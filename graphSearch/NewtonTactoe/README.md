@@ -1,5 +1,13 @@
 # Tic-Tac-Toe AI Project
 
+## Instructions
+
+1. AI and two player playability is included in TicTacToeAIinC folder which is works only in linux and will need some tweaking to be running in windows and mac.
+
+2. For Java, custom tic tac toe of n grid is available and simple tictactoe is also present among which you can choose to run in ui. a. Simply run src->TTTGame.  b.To edit board, check src->TicTacToe
+
+---
+
 ## Summary
 
 This practical aimed to make a Tic-Tac-Toe game by using java and C where we implemented two players and AI which never loses respectively. I implemented the game with support of AI (bot playing against human which never loses) in simple game using C and two players functionality in simple game as well as custom grid game where the game doesn’t stop until it has no grid remaining which counts no. of rows of same mark in java. I learned how to make a decision making algorithm like **minimax** algorithm and how it works when tackling a problem with heuristics.
